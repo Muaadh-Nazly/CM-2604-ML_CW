@@ -1,1 +1,1 @@
-# CM-2604-ML_CW
+# CM-2604 Machine Learning Coursework
